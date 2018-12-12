@@ -4,3 +4,4 @@ welcome everyone
 hello
 update
 once again
+welcome to the devops class
